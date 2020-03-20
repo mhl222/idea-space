@@ -1,0 +1,16 @@
+IO操作深入:
+    字符编码：GBK/UTF。。。
+    内存操作流
+    管道流  字节管道流/字符管道流  （实现俩个线程之间的IO处理操作）
+    RandomAccessFile
+
+输入输出支持：
+    打印流
+    System对IO的支持   PrintStream  System.out
+                      PrintStream  System.err
+                      InputStream  System.in
+
+    BufferReader缓冲输入流
+                      readLine();
+
+    Scanner扫描流xss
