@@ -6,6 +6,11 @@ IO操作深入:
 
 输入输出支持：
     打印流
-    System对IO的支持
+    System对IO的支持   PrintStream  System.out
+                      PrintStream  System.err
+                      InputStream  System.in
+
     BufferReader缓冲输入流
-    Scanner扫描流
+                      readLine();
+
+    Scanner扫描流xss

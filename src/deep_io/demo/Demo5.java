@@ -5,9 +5,15 @@ import java.io.*;
 public class Demo5 {
     private static final File file = new File("C:\\Users\\孟哥\\Desktop\\ss\\s.txt");
     public static void main(String[] args){
-        saveObject(new Person("张三",12));
-        Person person=(Person) loadObject();
-        System.out.println(person);
+        //saveObject(new Person("张三",12));
+        Object[] objects=new Object[]{new Person("张三",22),new Person("李四",44),new Person("王五",33)};
+        saveObject(objects);
+        Object[] person=(Object[]) loadObject();
+        for (int x=0;x<3;x++)
+        {
+            System.out.println((Person)person[x]);
+
+        }
 
     }
      static void saveObject(Object object){
