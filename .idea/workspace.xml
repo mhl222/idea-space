@@ -338,10 +338,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="467" y="81" key="#test7/0.0.1536.824@0.0.1536.824" timestamp="1582810003236" />
-    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1584787905030">
+    <state x="270" y="0" key="CommitChangelistDialog2" timestamp="1584788812176">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584787905030" />
+    <state x="270" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584788812176" />
     <state x="45" y="64" key="DiffContextDialog" timestamp="1584720320122">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -362,22 +362,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="439" y="94" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584719818239" />
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1584788764717">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom" timestamp="1584788817266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584788764717" />
-    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1584788764716">
+    <state width="1493" height="214" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584788817266" />
+    <state width="1493" height="214" key="GridCell.Tab.0.center" timestamp="1584788817266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584788764716" />
-    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1584788764716">
+    <state width="1493" height="214" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584788817266" />
+    <state width="1493" height="214" key="GridCell.Tab.0.left" timestamp="1584788817266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584788764716" />
-    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1584788764717">
+    <state width="1493" height="214" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584788817266" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right" timestamp="1584788817266">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584788764717" />
+    <state width="1493" height="214" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584788817266" />
     <state width="914" height="184" key="GridCell.Tab.1.bottom" timestamp="1583821654877">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -406,17 +406,17 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="259" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584787909884" />
-    <state x="460" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584788777478">
+    <state x="460" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584788944653">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="460" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584788777478" />
+    <state x="460" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1584788944653" />
     <state x="796" y="235" key="extract.method.dialog" timestamp="1584430311957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="796" y="235" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1584430311957" />
-    <state x="647" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1583833947021">
+    <state x="646" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584788928793">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="647" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1583833947021" />
+    <state x="646" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1584788928793" />
   </component>
 </project>

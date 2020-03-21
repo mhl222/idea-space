@@ -14,3 +14,7 @@ IO操作深入:
                       readLine();
 
     Scanner扫描流xss
+
+    对象序列化
+
+    transient关键字
