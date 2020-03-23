@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f9c0e83-94a8-46dd-9ebf-7d7622906b8d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/main.txt" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/main.txt" afterDir="false" />
-    </list>
+    <list default="true" id="4f9c0e83-94a8-46dd-9ebf-7d7622906b8d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -244,7 +241,7 @@
       <workItem from="1584719757553" duration="1921000" />
       <workItem from="1584785219890" duration="5905000" />
       <workItem from="1584862812368" duration="9668000" />
-      <workItem from="1584873351011" duration="7033000" />
+      <workItem from="1584873351011" duration="7088000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1584720715850</created>
@@ -316,7 +313,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584880917642</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="加入jdbc夹">
+      <created>1584885241521</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1584885241521</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +345,8 @@
     <MESSAGE value="序列化/反序列化" />
     <MESSAGE value="序列化/反序列化(一组对象)" />
     <MESSAGE value="加入网络编程" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入网络编程" />
+    <MESSAGE value="加入jdbc夹" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入jdbc夹" />
   </component>
   <component name="WindowStateProjectService">
     <state x="619" y="123" key="#Project_Structure" timestamp="1582271732232">
@@ -376,10 +381,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="467" y="81" key="#test7/0.0.1536.824@0.0.1536.824" timestamp="1582810003236" />
-    <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2" timestamp="1584880915296">
+    <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2" timestamp="1584885239998">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584880915296" />
+    <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584885239998" />
     <state x="45" y="64" key="DiffContextDialog" timestamp="1584880908026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
