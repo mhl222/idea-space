@@ -1,9 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4f9c0e83-94a8-46dd-9ebf-7d7622906b8d" name="Default Changelist" comment="jdbc">
-      <change afterPath="$PROJECT_DIR$/src/JDBC/demo/Demo1.java" afterDir="false" />
+    <list default="true" id="4f9c0e83-94a8-46dd-9ebf-7d7622906b8d" name="Default Changelist" comment="加入jdbc_demo">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/idea-space.iml" beforeDir="false" afterPath="$PROJECT_DIR$/idea-space.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/META-INF/idea-space.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/Demo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/ReceiveThread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/ReceiveThread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/SendTread.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/SendTread.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/demo1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/deep_io/demo/demo1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/file/demo/Demo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/file/demo/Demo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo2$Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo2$Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo5.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo5.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo6.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo6.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo7.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo7.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo8.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/Demo8.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/FileUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/FileUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/idea-space/io/demo/FileUtil1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/idea-space/io/demo/FileUtil1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/demo/Demo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/demo/Demo1.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +43,30 @@
     <option name="HIDDEN_KINDS">
       <set />
     </option>
-    <expand />
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydemo@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydemo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydemo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydemo: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mydemo@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="mydemo: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="demo: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
     <select />
   </component>
   <component name="FavoritesManager">
@@ -71,32 +116,36 @@
   </component>
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HgIgnore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.idesettings.debugger.capture" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\孟哥\Desktop\java\idea-space\src" />
-      <recent name="C:\Users\孟哥\Desktop\java\idea-space\src\com\mhlsky\message" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="internet.demo.TCP_Echo_Bio" />
-      <recent name="io_file.test.demo" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\孟哥\Desktop\java\idea-space\src\io\demo" />
       <recent name="C:\Users\孟哥\Desktop\java\idea-space\src\deep_io\demo" />
       <recent name="C:\Users\孟哥\Desktop\java\idea-space\src" />
       <recent name="C:\Users\孟哥\Desktop\java\idea-space\src\com\sky\com" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="internet.demo.TCP_Echo_Bio" />
+      <recent name="io_file.test.demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\admin\Desktop\idea-space\src" />
+      <recent name="C:\Users\孟哥\Desktop\java\idea-space\src" />
+      <recent name="C:\Users\孟哥\Desktop\java\idea-space\src\com\mhlsky\message" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.UDPsever">
+  <component name="RunManager" selected="Application.Demo1">
     <configuration name="Demo" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.sky.com.Demo" />
       <module name="idea-space" />
@@ -110,12 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EchoClient (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internet.demo.TCP_Echo_Bio.EchoClient" />
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="JDBC.demo.Demo1" />
       <module name="idea-space" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="internet.demo.TCP_Echo_Bio.*" />
+          <option name="PATTERN" value="JDBC.demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,19 +178,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="internet.demo.TCP_Echo_Nio.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="EchoSever (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="internet.demo.TCP_Echo_Bio.EchoSever" />
-      <module name="idea-space" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="internet.demo.TCP_Echo_Bio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -175,21 +211,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="mysql-connector-java-8.0.19.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/../mysql-connector-java-8.0.19/mysql-connector-java-8.0.19/mysql-connector-java-8.0.19.jar!/" />
+      <method v="2" />
+    </configuration>
     <list>
       <item itemvalue="Application.Demo" />
       <item itemvalue="Application.EchoClient" />
-      <item itemvalue="Application.EchoSever (1)" />
-      <item itemvalue="Application.EchoClient (1)" />
       <item itemvalue="Application.UDPclient" />
       <item itemvalue="Application.UDPsever" />
+      <item itemvalue="JAR Application.mysql-connector-java-8.0.19.jar" />
+      <item itemvalue="Application.Demo1" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Demo1" />
+        <item itemvalue="JAR Application.mysql-connector-java-8.0.19.jar" />
         <item itemvalue="Application.UDPsever" />
         <item itemvalue="Application.UDPclient" />
         <item itemvalue="Application.EchoClient" />
-        <item itemvalue="Application.EchoClient (1)" />
-        <item itemvalue="Application.EchoSever (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -198,7 +238,17 @@
       <list>
         <serviceView>
           <treeState>
-            <expand />
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mydemo@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:mydemo@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@4f17346a" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
             <select />
           </treeState>
         </serviceView>
@@ -246,6 +296,10 @@
       <workItem from="1584862812368" duration="9668000" />
       <workItem from="1584873351011" duration="7088000" />
       <workItem from="1584929228185" duration="267000" />
+      <workItem from="1585796217156" duration="783000" />
+      <workItem from="1585797248234" duration="108000" />
+      <workItem from="1586095547667" duration="1261000" />
+      <workItem from="1586101661179" duration="2103000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1584720715850</created>
@@ -359,16 +413,19 @@
     <MESSAGE value="序列化/反序列化(一组对象)" />
     <MESSAGE value="加入网络编程" />
     <MESSAGE value="加入jdbc夹" />
-    <option name="LAST_COMMIT_MESSAGE" value="加入jdbc夹" />
+    <MESSAGE value="加入jdbc_demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="加入jdbc_demo" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="619" y="123" key="#Project_Structure" timestamp="1582271732232">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="551" y="130" key="#Project_Structure" timestamp="1586101148051">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="551" y="130" key="#Project_Structure/0.0.1368.872@0.0.1368.872" timestamp="1586101148051" />
     <state x="619" y="123" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1582271732232" />
-    <state x="437" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584421985482">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="389" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586103520761">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="389" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1368.872@0.0.1368.872" timestamp="1586103520761" />
     <state x="437" y="24" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1584421985482" />
     <state x="593" y="272" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584864350696">
       <screen x="0" y="0" width="1536" height="824" />
@@ -394,17 +451,19 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="467" y="81" key="#test7/0.0.1536.824@0.0.1536.824" timestamp="1582810003236" />
-    <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2" timestamp="1584929454613">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="240" y="0" width="926" height="812" key="CommitChangelistDialog2" timestamp="1586103813825">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="240" y="0" key="CommitChangelistDialog2/0.0.1368.872@0.0.1368.872" timestamp="1586103813825" />
     <state x="270" y="0" width="926" height="812" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1584929454613" />
     <state x="45" y="64" key="DiffContextDialog" timestamp="1584880908026">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="45" y="64" key="DiffContextDialog/0.0.1536.824@0.0.1536.824" timestamp="1584880908026" />
-    <state x="435" y="113" key="FileChooserDialogImpl" timestamp="1584720430778">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="387" y="120" key="FileChooserDialogImpl" timestamp="1586101876801">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="387" y="120" key="FileChooserDialogImpl/0.0.1368.872@0.0.1368.872" timestamp="1586101876801" />
     <state x="435" y="113" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1584720430778" />
     <state x="530" y="402" width="382" height="173" key="Github.CreateGistDialog" timestamp="1584718789132">
       <screen x="0" y="0" width="1536" height="824" />
@@ -418,21 +477,25 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="439" y="94" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584719818239" />
-    <state width="1140" height="212" key="GridCell.Tab.0.bottom" timestamp="1584880845414">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="907" height="227" key="GridCell.Tab.0.bottom" timestamp="1586103539187">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="227" key="GridCell.Tab.0.bottom/0.0.1368.872@0.0.1368.872" timestamp="1586103539187" />
     <state width="1140" height="212" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1584880845414" />
-    <state width="1140" height="212" key="GridCell.Tab.0.center" timestamp="1584880845414">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="907" height="227" key="GridCell.Tab.0.center" timestamp="1586103539187">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="227" key="GridCell.Tab.0.center/0.0.1368.872@0.0.1368.872" timestamp="1586103539187" />
     <state width="1140" height="212" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1584880845414" />
-    <state width="1140" height="212" key="GridCell.Tab.0.left" timestamp="1584880845414">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="907" height="227" key="GridCell.Tab.0.left" timestamp="1586103539186">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="227" key="GridCell.Tab.0.left/0.0.1368.872@0.0.1368.872" timestamp="1586103539186" />
     <state width="1140" height="212" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1584880845414" />
-    <state width="1140" height="212" key="GridCell.Tab.0.right" timestamp="1584880845414">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="907" height="227" key="GridCell.Tab.0.right" timestamp="1586103539187">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state width="907" height="227" key="GridCell.Tab.0.right/0.0.1368.872@0.0.1368.872" timestamp="1586103539187" />
     <state width="1140" height="212" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1584880845414" />
     <state width="1493" height="260" key="GridCell.Tab.1.bottom" timestamp="1584873327283">
       <screen x="0" y="0" width="1536" height="824" />
@@ -450,17 +513,23 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state width="1493" height="260" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1584873327283" />
+    <state width="214" height="477" key="HiddenNamespacesPopup" timestamp="1586103253846">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state width="214" height="477" key="HiddenNamespacesPopup/0.0.1368.872@0.0.1368.872" timestamp="1586103253846" />
     <state x="541" y="123" key="RollbackChangesDialog" timestamp="1584788269331">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="541" y="123" key="RollbackChangesDialog/0.0.1536.824@0.0.1536.824" timestamp="1584788269331" />
-    <state x="156" y="0" key="SettingsEditor" timestamp="1584871613474">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="139" y="0" key="SettingsEditor" timestamp="1586101490153">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="139" y="0" key="SettingsEditor/0.0.1368.872@0.0.1368.872" timestamp="1586101490153" />
     <state x="156" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1584871613474" />
-    <state x="259" y="122" key="Vcs.Push.Dialog.v2" timestamp="1584929334738">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="231" y="129" key="Vcs.Push.Dialog.v2" timestamp="1586103895029">
+      <screen x="0" y="0" width="1368" height="872" />
     </state>
+    <state x="231" y="129" key="Vcs.Push.Dialog.v2/0.0.1368.872@0.0.1368.872" timestamp="1586103895029" />
     <state x="259" y="122" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1584929334738" />
     <state x="460" y="306" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1584788944653">
       <screen x="0" y="0" width="1536" height="824" />
@@ -470,6 +539,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="796" y="235" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1584430311957" />
+    <state x="395" y="227" key="git4idea.merge.GitPullDialog" timestamp="1586103878508">
+      <screen x="0" y="0" width="1368" height="872" />
+    </state>
+    <state x="395" y="227" key="git4idea.merge.GitPullDialog/0.0.1368.872@0.0.1368.872" timestamp="1586103878508" />
     <state x="646" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1584874785098">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
